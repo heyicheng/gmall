@@ -86,12 +86,13 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Applications\workSpaces\gmall0105\gmall-user\src\main\java\com\atguigu\gmall\user\bean" />
-      <recent name="D:\Applications\workSpaces\gmall0105\gmall-user\src\main\resources\mapper" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.atguigu.gmall.user.bean" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="D:\Applications\workSpaces\gmall0105\gmall-user\src\main\java\com\atguigu\gmall\user\bean" />
+      <recent name="D:\Applications\workSpaces\gmall0105\gmall-user\src\main\resources\mapper" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -178,7 +179,7 @@
       <workItem from="1573135544967" duration="2308000" />
       <workItem from="1573138100772" duration="227000" />
       <workItem from="1573177001446" duration="1062000" />
-      <workItem from="1573179460442" duration="7112000" />
+      <workItem from="1573179460442" duration="8143000" />
     </task>
     <task id="LOCAL-00001" summary="提交测试">
       <created>1558493903552</created>
